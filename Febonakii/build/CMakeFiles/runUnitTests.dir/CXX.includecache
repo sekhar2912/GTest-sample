@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Analyzer.hpp
+
+../include/TestHelper.hpp
+
+/home/sekhar/WorkSpace/C++/GTest-sample/Febonakii/test/FeboTest.cpp
+gtest/gtest.h
+/home/sekhar/WorkSpace/C++/GTest-sample/Febonakii/test/gtest/gtest.h
+Analyzer.hpp
+/home/sekhar/WorkSpace/C++/GTest-sample/Febonakii/test/Analyzer.hpp
+TestHelper.hpp
+/home/sekhar/WorkSpace/C++/GTest-sample/Febonakii/test/TestHelper.hpp
+

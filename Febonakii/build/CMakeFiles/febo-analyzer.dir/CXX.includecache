@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Analyzer.hpp
+
+/home/sekhar/WorkSpace/C++/GTest-sample/Febonakii/src/Analyzer.cpp
+iostream
+-
+Analyzer.hpp
+/home/sekhar/WorkSpace/C++/GTest-sample/Febonakii/src/Analyzer.hpp
+

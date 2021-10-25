@@ -1,0 +1,2 @@
+/usr/bin/ar qc libfebo-analyzer.a  CMakeFiles/febo-analyzer.dir/src/Analyzer.cpp.o
+/usr/bin/ranlib libfebo-analyzer.a

@@ -1,0 +1,1 @@
+/usr/bin/c++  -Wall -Wno-sign-compare   CMakeFiles/runUnitTests.dir/test/FeboTest.cpp.o  -o runUnitTests  -lgtest -lgtest_main libfebo-analyzer.a -lpthread 
